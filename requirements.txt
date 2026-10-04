@@ -1,0 +1,3 @@
+# Only needed for --proposer anthropic.
+# The offline path (--proposer stub) and the whole test suite run on stdlib.
+anthropic>=1.0

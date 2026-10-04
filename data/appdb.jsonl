@@ -1,0 +1,792 @@
+{"ts": "2026-09-19T14:00:45.365000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:40.677000+00:00", "table": "transactions", "internal_tx_hash": "4c61819e4fc7ac63", "status": "SETTLED", "amount_cents": 17693}
+{"ts": "2026-09-19T14:00:43.517000+00:00", "table": "transactions", "internal_tx_hash": "19937d0e6e0bf73d", "status": "SETTLED", "amount_cents": 170332}
+{"ts": "2026-09-19T14:00:35.237000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:46.231000+00:00", "table": "transactions", "internal_tx_hash": "030495624e6f9045", "status": "SETTLED", "amount_cents": 172203}
+{"ts": "2026-09-19T14:00:29.637000+00:00", "table": "transactions", "internal_tx_hash": "fc0dad6df2bf7ea7", "status": "SETTLED", "amount_cents": 92124}
+{"ts": "2026-09-19T14:00:43.856000+00:00", "table": "transactions", "internal_tx_hash": "bf14b1bcb392f689", "status": "SETTLED", "amount_cents": 75794}
+{"ts": "2026-09-19T14:00:58.374000+00:00", "table": "transactions", "internal_tx_hash": "c1d979051f6e7672", "status": "SETTLED", "amount_cents": 125636}
+{"ts": "2026-09-19T14:00:37.558000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:14.232000+00:00", "table": "transactions", "internal_tx_hash": "7586f7c464f6a032", "status": "SETTLED", "amount_cents": 240033}
+{"ts": "2026-09-19T14:00:52.328000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-7"}
+{"ts": "2026-09-19T14:00:08.611000+00:00", "table": "transactions", "internal_tx_hash": "cb8dc040f8affbda", "status": "SETTLED", "amount_cents": 43336}
+{"ts": "2026-09-19T14:00:32.743000+00:00", "table": "transactions", "internal_tx_hash": "6b3eab552357e220", "status": "SETTLED", "amount_cents": 108252}
+{"ts": "2026-09-19T14:00:42.622000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:17.971000+00:00", "table": "transactions", "internal_tx_hash": "44df5d3a5d824fd3", "status": "SETTLED", "amount_cents": 58900}
+{"ts": "2026-09-19T14:00:17.091000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:00.809000+00:00", "table": "transactions", "internal_tx_hash": "38f65ea5d6c33dce", "status": "SETTLED", "amount_cents": 86295}
+{"ts": "2026-09-19T14:00:54.227000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:11.605000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:51.632000+00:00", "table": "transactions", "internal_tx_hash": "3c54c12941b9086d", "status": "SETTLED", "amount_cents": 229739}
+{"ts": "2026-09-19T14:01:06.780000+00:00", "table": "transactions", "internal_tx_hash": "a3bf0cfd6d1d04bd", "status": "SETTLED", "amount_cents": 179249}
+{"ts": "2026-09-19T14:00:33.339000+00:00", "table": "transactions", "internal_tx_hash": "5a2ee8d6e91a669e", "status": "SETTLED", "amount_cents": 10827}
+{"ts": "2026-09-19T14:00:29.825000+00:00", "table": "transactions", "internal_tx_hash": "1a0034a086d53559", "status": "SETTLED", "amount_cents": 63132}
+{"ts": "2026-09-19T14:00:34.182000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-7"}
+{"ts": "2026-09-19T14:00:13.720000+00:00", "table": "transactions", "internal_tx_hash": "d40920d2d805ae4d", "status": "SETTLED", "amount_cents": 86946}
+{"ts": "2026-09-19T14:00:47.269000+00:00", "table": "transactions", "internal_tx_hash": "630cf0f89f67fb70", "status": "SETTLED", "amount_cents": 10227}
+{"ts": "2026-09-19T14:00:35.659000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:15.825000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:01:04.712000+00:00", "table": "transactions", "internal_tx_hash": "8105d97220cf14c2", "status": "SETTLED", "amount_cents": 132925}
+{"ts": "2026-09-19T14:00:20.467000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-7"}
+{"ts": "2026-09-19T14:00:22.171000+00:00", "table": "transactions", "internal_tx_hash": "d748711298ef180c", "status": "SETTLED", "amount_cents": 106621}
+{"ts": "2026-09-19T14:00:43.888000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:37.847000+00:00", "table": "transactions", "internal_tx_hash": "4efe7dd65842860d", "status": "SETTLED", "amount_cents": 126516}
+{"ts": "2026-09-19T14:00:02.422000+00:00", "table": "transactions", "internal_tx_hash": "707862f4b7dfd5b4", "status": "SETTLED", "amount_cents": 190952}
+{"ts": "2026-09-19T14:00:51.695000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:21.522000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:57.392000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:13.926000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:37.288000+00:00", "table": "transactions", "internal_tx_hash": "2353eb4c77068b3b", "status": "SETTLED", "amount_cents": 88379}
+{"ts": "2026-09-19T14:00:41.192000+00:00", "table": "transactions", "internal_tx_hash": "4bace03abe4175fa", "status": "SETTLED", "amount_cents": 181840}
+{"ts": "2026-09-19T14:01:01.673000+00:00", "table": "transactions", "internal_tx_hash": "e75b06e867873c84", "status": "SETTLED", "amount_cents": 241884}
+{"ts": "2026-09-19T14:00:54.649000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:16.880000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:07.031000+00:00", "table": "transactions", "internal_tx_hash": "1da7432f5a8c5211", "status": "SETTLED", "amount_cents": 15246}
+{"ts": "2026-09-19T14:01:05.692000+00:00", "table": "transactions", "internal_tx_hash": "565a5fbc7caabc03", "status": "SETTLED", "amount_cents": 189943}
+{"ts": "2026-09-19T14:00:05.275000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:29.540000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:06.541000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:50.941000+00:00", "table": "transactions", "internal_tx_hash": "d7932838a2b01d21", "status": "SETTLED", "amount_cents": 37268}
+{"ts": "2026-09-19T14:00:45.149000+00:00", "table": "transactions", "internal_tx_hash": "5b90256eae1ec1a6", "status": "SETTLED", "amount_cents": 3361}
+{"ts": "2026-09-19T14:00:33.338000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:02.953000+00:00", "table": "transactions", "internal_tx_hash": "00eed54c1049e2dd", "status": "SETTLED", "amount_cents": 108255}
+{"ts": "2026-09-19T14:00:55.071000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:41.567000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:01:06.742000+00:00", "table": "transactions", "internal_tx_hash": "a6fd1bb45be7b07d", "status": "SETTLED", "amount_cents": 7453}
+{"ts": "2026-09-19T14:00:34.647000+00:00", "table": "transactions", "internal_tx_hash": "b88a47f23f41fd7c", "status": "SETTLED", "amount_cents": 81968}
+{"ts": "2026-09-19T14:00:02.139000+00:00", "table": "transactions", "internal_tx_hash": "46de6374c87bb8b3", "status": "SETTLED", "amount_cents": 118843}
+{"ts": "2026-09-19T14:00:30.328000+00:00", "table": "transactions", "internal_tx_hash": "b1b4a076170f511e", "status": "SETTLED", "amount_cents": 122653}
+{"ts": "2026-09-19T14:00:18.386000+00:00", "table": "transactions", "internal_tx_hash": "25386a0ef4a3f55d", "status": "SETTLED", "amount_cents": 217007}
+{"ts": "2026-09-19T14:00:45.998000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:00.025000+00:00", "table": "transactions", "internal_tx_hash": "a7eda11a20aa7401", "status": "SETTLED", "amount_cents": 96318}
+{"ts": "2026-09-19T14:00:39.960000+00:00", "table": "transactions", "internal_tx_hash": "2be14161193d5234", "status": "SETTLED", "amount_cents": 147737}
+{"ts": "2026-09-19T14:00:51.727000+00:00", "table": "transactions", "internal_tx_hash": "7f37f2bfead445ed", "status": "SETTLED", "amount_cents": 79249}
+{"ts": "2026-09-19T14:00:39.112000+00:00", "table": "transactions", "internal_tx_hash": "9cf83af6b21eded6", "status": "SETTLED", "amount_cents": 160156}
+{"ts": "2026-09-19T14:00:33.971000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:40.361000+00:00", "table": "transactions", "internal_tx_hash": "84bef85d5e4afdf9", "status": "SETTLED", "amount_cents": 95990}
+{"ts": "2026-09-19T14:00:13.869000+00:00", "table": "transactions", "internal_tx_hash": "a3864ee306d4cfc9", "status": "SETTLED", "amount_cents": 88087}
+{"ts": "2026-09-19T14:00:31.444000+00:00", "table": "transactions", "internal_tx_hash": "9c691b0d63966643", "status": "SETTLED", "amount_cents": 123500}
+{"ts": "2026-09-19T14:01:01.853000+00:00", "table": "transactions", "internal_tx_hash": "654b724ef14e8868", "status": "SETTLED", "amount_cents": 30131}
+{"ts": "2026-09-19T14:00:37.383000+00:00", "table": "transactions", "internal_tx_hash": "c2b6f599df1443b4", "status": "SETTLED", "amount_cents": 1033}
+{"ts": "2026-09-19T14:00:59.106000+00:00", "table": "transactions", "internal_tx_hash": "c312734762a95859", "status": "SETTLED", "amount_cents": 205998}
+{"ts": "2026-09-19T14:00:55.811000+00:00", "table": "transactions", "internal_tx_hash": "f8b5fe9fc5816339", "status": "SETTLED", "amount_cents": 133278}
+{"ts": "2026-09-19T14:00:46.420000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:18.779000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:19.345000+00:00", "table": "transactions", "internal_tx_hash": "6d4ac20f156a56b7", "status": "SETTLED", "amount_cents": 198057}
+{"ts": "2026-09-19T14:00:27.932000+00:00", "table": "transactions", "internal_tx_hash": "523408f658d17a5d", "status": "SETTLED", "amount_cents": 75966}
+{"ts": "2026-09-19T14:00:54.410000+00:00", "table": "transactions", "internal_tx_hash": "232a6e340e7fb026", "status": "SETTLED", "amount_cents": 61664}
+{"ts": "2026-09-19T14:00:42.833000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:59.291000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:28.891000+00:00", "table": "transactions", "internal_tx_hash": "2a787bd69c541e20", "status": "SETTLED", "amount_cents": 49417}
+{"ts": "2026-09-19T14:00:53.172000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:16.159000+00:00", "table": "transactions", "internal_tx_hash": "736143af7335144f", "status": "SETTLED", "amount_cents": 142439}
+{"ts": "2026-09-19T14:00:52.539000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:59.668000+00:00", "table": "transactions", "internal_tx_hash": "35119e0f7d906ab7", "status": "SETTLED", "amount_cents": 161633}
+{"ts": "2026-09-19T14:00:23.421000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:10.128000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:18.357000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:39.340000+00:00", "table": "transactions", "internal_tx_hash": "0d8e6cf42924bb4b", "status": "SETTLED", "amount_cents": 55681}
+{"ts": "2026-09-19T14:00:12.436000+00:00", "table": "transactions", "internal_tx_hash": "32a3fc6f8446027e", "status": "SETTLED", "amount_cents": 26377}
+{"ts": "2026-09-19T14:00:21.624000+00:00", "table": "transactions", "internal_tx_hash": "0bbdb1d8fb3b0c8b", "status": "SETTLED", "amount_cents": 125925}
+{"ts": "2026-09-19T14:00:32.919000+00:00", "table": "transactions", "internal_tx_hash": "01e831d2f1653a6f", "status": "SETTLED", "amount_cents": 149254}
+{"ts": "2026-09-19T14:00:05.652000+00:00", "table": "transactions", "internal_tx_hash": "a69bcb015f8d63f6", "status": "DECLINED", "amount_cents": 137883}
+{"ts": "2026-09-19T14:00:41.001000+00:00", "table": "transactions", "internal_tx_hash": "2eaf6e4a8e67518b", "status": "SETTLED", "amount_cents": 154495}
+{"ts": "2026-09-19T14:00:31.799000+00:00", "table": "transactions", "internal_tx_hash": "f6d32e649866168c", "status": "SETTLED", "amount_cents": 184054}
+{"ts": "2026-09-19T14:00:42.200000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-7"}
+{"ts": "2026-09-19T14:00:25.531000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:43.677000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:45.787000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:53.975000+00:00", "table": "transactions", "internal_tx_hash": "29138e159bf2b09c", "status": "DECLINED", "amount_cents": 30787}
+{"ts": "2026-09-19T14:00:24.603000+00:00", "table": "transactions", "internal_tx_hash": "217de283e9b793bf", "status": "SETTLED", "amount_cents": 33581}
+{"ts": "2026-09-19T14:01:02.245000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:08.229000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:12.660000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:21.473000+00:00", "table": "transactions", "internal_tx_hash": "fceb941e238903d1", "status": "SETTLED", "amount_cents": 21075}
+{"ts": "2026-09-19T14:00:43.154000+00:00", "table": "transactions", "internal_tx_hash": "11b58ad80b4e05c1", "status": "SETTLED", "amount_cents": 190035}
+{"ts": "2026-09-19T14:00:07.509000+00:00", "table": "transactions", "internal_tx_hash": "d5f5cc1d9ebd6ff6", "status": "SETTLED", "amount_cents": 169503}
+{"ts": "2026-09-19T14:00:26.667000+00:00", "table": "transactions", "internal_tx_hash": "7625012289f5fbbe", "status": "SETTLED", "amount_cents": 100720}
+{"ts": "2026-09-19T14:00:27.008000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:31.281000+00:00", "table": "transactions", "internal_tx_hash": "41cce3391b052583", "status": "SETTLED", "amount_cents": 30855}
+{"ts": "2026-09-19T14:01:08.539000+00:00", "table": "transactions", "internal_tx_hash": "2998d30e53c64e0e", "status": "DECLINED", "amount_cents": 85125}
+{"ts": "2026-09-19T14:00:09.022000+00:00", "table": "transactions", "internal_tx_hash": "38cf29d3b15edd49", "status": "SETTLED", "amount_cents": 161860}
+{"ts": "2026-09-19T14:00:58.318000+00:00", "table": "transactions", "internal_tx_hash": "f327b8e8901e13f3", "status": "SETTLED", "amount_cents": 74971}
+{"ts": "2026-09-19T14:00:17.558000+00:00", "table": "transactions", "internal_tx_hash": "f900b275167b33e7", "status": "SETTLED", "amount_cents": 42007}
+{"ts": "2026-09-19T14:01:07.510000+00:00", "table": "transactions", "internal_tx_hash": "e110091e4f3f8da9", "status": "SETTLED", "amount_cents": 154073}
+{"ts": "2026-09-19T14:00:58.025000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:41.417000+00:00", "table": "transactions", "internal_tx_hash": "099ee3a47bd657c3", "status": "SETTLED", "amount_cents": 152092}
+{"ts": "2026-09-19T14:00:44.644000+00:00", "table": "transactions", "internal_tx_hash": "0966c6c98f6f823d", "status": "SETTLED", "amount_cents": 5013}
+{"ts": "2026-09-19T14:00:08.651000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:13.504000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:39.668000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:05.005000+00:00", "table": "transactions", "internal_tx_hash": "887f4717c0a2b945", "status": "SETTLED", "amount_cents": 104812}
+{"ts": "2026-09-19T14:00:22.733000+00:00", "table": "transactions", "internal_tx_hash": "b83a88a9186fa53b", "status": "SETTLED", "amount_cents": 74939}
+{"ts": "2026-09-19T14:00:48.179000+00:00", "table": "transactions", "internal_tx_hash": "4a3f55926897ab92", "status": "SETTLED", "amount_cents": 28944}
+{"ts": "2026-09-19T14:00:21.944000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:55.940000+00:00", "table": "transactions", "internal_tx_hash": "9c0375f401c74d7f", "status": "SETTLED", "amount_cents": 221648}
+{"ts": "2026-09-19T14:00:33.760000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:03.125000+00:00", "table": "transactions", "internal_tx_hash": "b3e16b5a574259bc", "status": "SETTLED", "amount_cents": 206172}
+{"ts": "2026-09-19T14:00:23.632000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-7"}
+{"ts": "2026-09-19T14:00:53.383000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:42.145000+00:00", "table": "transactions", "internal_tx_hash": "8fad5c3ab670f477", "status": "SETTLED", "amount_cents": 49926}
+{"ts": "2026-09-19T14:00:45.154000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:47.264000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:24.433000+00:00", "table": "transactions", "internal_tx_hash": "285a66838616716d", "status": "SETTLED", "amount_cents": 177771}
+{"ts": "2026-09-19T14:00:53.749000+00:00", "table": "transactions", "internal_tx_hash": "251823e7b08e22d8", "status": "SETTLED", "amount_cents": 34402}
+{"ts": "2026-09-19T14:01:01.401000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:48.530000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:24.265000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:01.418000+00:00", "table": "transactions", "internal_tx_hash": "df181764b9cb2034", "status": "SETTLED", "amount_cents": 134596}
+{"ts": "2026-09-19T14:00:54.903000+00:00", "table": "transactions", "internal_tx_hash": "fe9d53c908c2b43e", "status": "SETTLED", "amount_cents": 146188}
+{"ts": "2026-09-19T14:00:01.055000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:01.462000+00:00", "table": "transactions", "internal_tx_hash": "7d6c5b8adcac6511", "status": "SETTLED", "amount_cents": 40136}
+{"ts": "2026-09-19T14:00:39.266000+00:00", "table": "transactions", "internal_tx_hash": "8f0bb92b0836f1ca", "status": "SETTLED", "amount_cents": 111177}
+{"ts": "2026-09-19T14:00:45.600000+00:00", "table": "transactions", "internal_tx_hash": "5714d285d749ab4a", "status": "SETTLED", "amount_cents": 150385}
+{"ts": "2026-09-19T14:00:32.494000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:11.001000+00:00", "table": "transactions", "internal_tx_hash": "8dbb7848807708f2", "status": "SETTLED", "amount_cents": 64157}
+{"ts": "2026-09-19T14:00:03.216000+00:00", "table": "transactions", "internal_tx_hash": "61574099a96f133f", "status": "SETTLED", "amount_cents": 26652}
+{"ts": "2026-09-19T14:00:59.985000+00:00", "table": "transactions", "internal_tx_hash": "c473e328b955524a", "status": "SETTLED", "amount_cents": 63071}
+{"ts": "2026-09-19T14:00:40.899000+00:00", "table": "transactions", "internal_tx_hash": "5f367e580193f102", "status": "SETTLED", "amount_cents": 37339}
+{"ts": "2026-09-19T14:00:47.686000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:15.946000+00:00", "table": "transactions", "internal_tx_hash": "226d6ab4a46890e3", "status": "SETTLED", "amount_cents": 239946}
+{"ts": "2026-09-19T14:00:26.164000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:39.879000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:57.022000+00:00", "table": "transactions", "internal_tx_hash": "b6a1c8c484d089d9", "status": "SETTLED", "amount_cents": 21384}
+{"ts": "2026-09-19T14:00:24.494000+00:00", "table": "transactions", "internal_tx_hash": "d1abbd493d1d2d7c", "status": "SETTLED", "amount_cents": 178915}
+{"ts": "2026-09-19T14:00:11.816000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:47.628000+00:00", "table": "transactions", "internal_tx_hash": "929ba654fc8909db", "status": "SETTLED", "amount_cents": 113495}
+{"ts": "2026-09-19T14:01:07.909000+00:00", "table": "transactions", "internal_tx_hash": "cf78a6d88dd3d446", "status": "SETTLED", "amount_cents": 94781}
+{"ts": "2026-09-19T14:00:36.925000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:49.163000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:52.070000+00:00", "table": "transactions", "internal_tx_hash": "e5f249d4e4d86616", "status": "SETTLED", "amount_cents": 146388}
+{"ts": "2026-09-19T14:00:18.263000+00:00", "table": "transactions", "internal_tx_hash": "761f45b40ad27932", "status": "SETTLED", "amount_cents": 24686}
+{"ts": "2026-09-19T14:00:27.757000+00:00", "table": "transactions", "internal_tx_hash": "15f7d594180d8f2a", "status": "SETTLED", "amount_cents": 226236}
+{"ts": "2026-09-19T14:00:01.899000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:01:07.025000+00:00", "table": "transactions", "internal_tx_hash": "e411507585025874", "status": "SETTLED", "amount_cents": 74272}
+{"ts": "2026-09-19T14:00:22.353000+00:00", "table": "transactions", "internal_tx_hash": "fd278afcbd010b8a", "status": "SETTLED", "amount_cents": 147342}
+{"ts": "2026-09-19T14:00:21.897000+00:00", "table": "transactions", "internal_tx_hash": "e072e2963d789fd2", "status": "SETTLED", "amount_cents": 38582}
+{"ts": "2026-09-19T14:00:04.896000+00:00", "table": "transactions", "internal_tx_hash": "f588e879ea7364a1", "status": "SETTLED", "amount_cents": 79287}
+{"ts": "2026-09-19T14:00:38.402000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:31.143000+00:00", "table": "transactions", "internal_tx_hash": "4dda9a8f2b952e45", "status": "SETTLED", "amount_cents": 24788}
+{"ts": "2026-09-19T14:00:03.587000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:57.918000+00:00", "table": "transactions", "internal_tx_hash": "79845f795e0884d3", "status": "SETTLED", "amount_cents": 246308}
+{"ts": "2026-09-19T14:00:51.131000+00:00", "table": "transactions", "internal_tx_hash": "35d1c524efa3a217", "status": "SETTLED", "amount_cents": 54258}
+{"ts": "2026-09-19T14:00:23.116000+00:00", "table": "transactions", "internal_tx_hash": "6c09ad906f9c0f0e", "status": "SETTLED", "amount_cents": 100163}
+{"ts": "2026-09-19T14:00:03.988000+00:00", "table": "transactions", "internal_tx_hash": "a98421fd6f66aa3f", "status": "SETTLED", "amount_cents": 169641}
+{"ts": "2026-09-19T14:00:07.963000+00:00", "table": "transactions", "internal_tx_hash": "89f115d19c9a1620", "status": "SETTLED", "amount_cents": 141334}
+{"ts": "2026-09-19T14:00:29.188000+00:00", "table": "transactions", "internal_tx_hash": "0585da8ca30783ea", "status": "SETTLED", "amount_cents": 148480}
+{"ts": "2026-09-19T14:00:23.804000+00:00", "table": "transactions", "internal_tx_hash": "82086f687919f62b", "status": "SETTLED", "amount_cents": 190626}
+{"ts": "2026-09-19T14:00:46.189000+00:00", "table": "transactions", "internal_tx_hash": "5ab20cf47c316cda", "status": "SETTLED", "amount_cents": 154575}
+{"ts": "2026-09-19T14:01:04.748000+00:00", "table": "transactions", "internal_tx_hash": "87c038e41f49925d", "status": "SETTLED", "amount_cents": 229698}
+{"ts": "2026-09-19T14:00:17.170000+00:00", "table": "transactions", "internal_tx_hash": "70661a636135f7a1", "status": "SETTLED", "amount_cents": 18149}
+{"ts": "2026-09-19T14:00:25.485000+00:00", "table": "transactions", "internal_tx_hash": "3bdecbd63748ac07", "status": "SETTLED", "amount_cents": 38423}
+{"ts": "2026-09-19T14:01:02.667000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:28.907000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:01:01.823000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-7"}
+{"ts": "2026-09-19T14:00:41.356000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:14.559000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:39.756000+00:00", "table": "transactions", "internal_tx_hash": "9be9cb7e711f9c87", "status": "SETTLED", "amount_cents": 195978}
+{"ts": "2026-09-19T14:00:10.545000+00:00", "table": "transactions", "internal_tx_hash": "3a933279fb3646f3", "status": "SETTLED", "amount_cents": 106614}
+{"ts": "2026-09-19T14:00:56.126000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:49.374000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:05.855000+00:00", "table": "transactions", "internal_tx_hash": "af724e01f9e0f073", "status": "SETTLED", "amount_cents": 99700}
+{"ts": "2026-09-19T14:00:52.685000+00:00", "table": "transactions", "internal_tx_hash": "967126a195e095ec", "status": "SETTLED", "amount_cents": 245852}
+{"ts": "2026-09-19T14:00:52.530000+00:00", "table": "transactions", "internal_tx_hash": "8d46b62d4d544cff", "status": "SETTLED", "amount_cents": 216612}
+{"ts": "2026-09-19T14:00:20.066000+00:00", "table": "transactions", "internal_tx_hash": "5bad1381f20f933b", "status": "SETTLED", "amount_cents": 113836}
+{"ts": "2026-09-19T14:01:00.979000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:49.480000+00:00", "table": "transactions", "internal_tx_hash": "aad22417100ab561", "status": "DECLINED", "amount_cents": 192434}
+{"ts": "2026-09-19T14:00:26.242000+00:00", "table": "transactions", "internal_tx_hash": "d546951ab1b87656", "status": "SETTLED", "amount_cents": 240694}
+{"ts": "2026-09-19T14:00:48.430000+00:00", "table": "transactions", "internal_tx_hash": "3c37873a68027437", "status": "SETTLED", "amount_cents": 25348}
+{"ts": "2026-09-19T14:00:53.594000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:13.229000+00:00", "table": "transactions", "internal_tx_hash": "9b6b55309529aa8e", "status": "SETTLED", "amount_cents": 29002}
+{"ts": "2026-09-19T14:00:35.153000+00:00", "table": "transactions", "internal_tx_hash": "ed8e71a058c95b43", "status": "SETTLED", "amount_cents": 8169}
+{"ts": "2026-09-19T14:00:04.642000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:48.120000+00:00", "table": "transactions", "internal_tx_hash": "227c9374409ce28c", "status": "SETTLED", "amount_cents": 174015}
+{"ts": "2026-09-19T14:00:07.596000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:01:02.878000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:21.963000+00:00", "table": "transactions", "internal_tx_hash": "f7b285c5efadd472", "status": "DECLINED", "amount_cents": 17939}
+{"ts": "2026-09-19T14:00:20.098000+00:00", "table": "transactions", "internal_tx_hash": "c968dcd4be2a73bc", "status": "SETTLED", "amount_cents": 225953}
+{"ts": "2026-09-19T14:00:50.218000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:22.788000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:08.862000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:22.366000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:04.001000+00:00", "table": "transactions", "internal_tx_hash": "dcff4dcb0d50af6b", "status": "SETTLED", "amount_cents": 133207}
+{"ts": "2026-09-19T14:01:02.731000+00:00", "table": "transactions", "internal_tx_hash": "0743e5e1b00f56e6", "status": "DECLINED", "amount_cents": 17731}
+{"ts": "2026-09-19T14:00:38.106000+00:00", "table": "transactions", "internal_tx_hash": "81b427226e662288", "status": "SETTLED", "amount_cents": 209843}
+{"ts": "2026-09-19T14:00:47.814000+00:00", "table": "transactions", "internal_tx_hash": "319e0da5c0f5079f", "status": "SETTLED", "amount_cents": 72275}
+{"ts": "2026-09-19T14:00:03.437000+00:00", "table": "transactions", "internal_tx_hash": "285af612e22a03b9", "status": "SETTLED", "amount_cents": 207860}
+{"ts": "2026-09-19T14:00:43.044000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:55.493000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:25.434000+00:00", "table": "transactions", "internal_tx_hash": "016dcde7b859ca56", "status": "SETTLED", "amount_cents": 158467}
+{"ts": "2026-09-19T14:00:28.813000+00:00", "table": "transactions", "internal_tx_hash": "a5129317534fd84a", "status": "SETTLED", "amount_cents": 249481}
+{"ts": "2026-09-19T14:00:59.493000+00:00", "table": "transactions", "internal_tx_hash": "1634dc8ac90bfbfc", "status": "DECLINED", "amount_cents": 47237}
+{"ts": "2026-09-19T14:00:36.503000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:06.438000+00:00", "table": "transactions", "internal_tx_hash": "50de409ab73b6bfe", "status": "SETTLED", "amount_cents": 105287}
+{"ts": "2026-09-19T14:00:56.050000+00:00", "table": "transactions", "internal_tx_hash": "d519d3ab579a010d", "status": "SETTLED", "amount_cents": 240102}
+{"ts": "2026-09-19T14:01:00.135000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-7"}
+{"ts": "2026-09-19T14:00:02.744000+00:00", "table": "transactions", "internal_tx_hash": "7010d4398a252698", "status": "SETTLED", "amount_cents": 126612}
+{"ts": "2026-09-19T14:00:57.181000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:08.380000+00:00", "table": "transactions", "internal_tx_hash": "f54691a72dd20c88", "status": "SETTLED", "amount_cents": 217580}
+{"ts": "2026-09-19T14:00:26.586000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:30.346000+00:00", "table": "transactions", "internal_tx_hash": "61806dbb617ff6cb", "status": "SETTLED", "amount_cents": 200928}
+{"ts": "2026-09-19T14:00:01.860000+00:00", "table": "transactions", "internal_tx_hash": "1d057788b015c6a5", "status": "SETTLED", "amount_cents": 220466}
+{"ts": "2026-09-19T14:00:26.372000+00:00", "table": "transactions", "internal_tx_hash": "147c65d84aac2174", "status": "SETTLED", "amount_cents": 61011}
+{"ts": "2026-09-19T14:00:05.585000+00:00", "table": "transactions", "internal_tx_hash": "e5c4f79268128f6c", "status": "SETTLED", "amount_cents": 64330}
+{"ts": "2026-09-19T14:00:12.426000+00:00", "table": "transactions", "internal_tx_hash": "94d1ef2069aa403c", "status": "SETTLED", "amount_cents": 232881}
+{"ts": "2026-09-19T14:00:39.035000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:58.207000+00:00", "table": "transactions", "internal_tx_hash": "55c2d59baea6b4b5", "status": "SETTLED", "amount_cents": 8046}
+{"ts": "2026-09-19T14:00:01.477000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:54.713000+00:00", "table": "transactions", "internal_tx_hash": "cb17e8a36c83f0c9", "status": "SETTLED", "amount_cents": 238190}
+{"ts": "2026-09-19T14:00:42.903000+00:00", "table": "transactions", "internal_tx_hash": "3ae8100875936bcd", "status": "SETTLED", "amount_cents": 138372}
+{"ts": "2026-09-19T14:00:56.163000+00:00", "table": "transactions", "internal_tx_hash": "3c43e4cf2c91bba8", "status": "SETTLED", "amount_cents": 164474}
+{"ts": "2026-09-19T14:00:55.512000+00:00", "table": "transactions", "internal_tx_hash": "b5d5528f9840f888", "status": "SETTLED", "amount_cents": 140262}
+{"ts": "2026-09-19T14:00:49.585000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:40.301000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:33.939000+00:00", "table": "transactions", "internal_tx_hash": "379a19f7838dc077", "status": "SETTLED", "amount_cents": 132326}
+{"ts": "2026-09-19T14:01:06.345000+00:00", "table": "transactions", "internal_tx_hash": "8e6b3aca01ebd43e", "status": "SETTLED", "amount_cents": 209561}
+{"ts": "2026-09-19T14:00:55.989000+00:00", "table": "transactions", "internal_tx_hash": "1f938bf828bf627d", "status": "SETTLED", "amount_cents": 85528}
+{"ts": "2026-09-19T14:01:05.463000+00:00", "table": "transactions", "internal_tx_hash": "dd9e9ae398f58f1f", "status": "SETTLED", "amount_cents": 76040}
+{"ts": "2026-09-19T14:00:59.747000+00:00", "table": "transactions", "internal_tx_hash": "2edc526fd232cd41", "status": "SETTLED", "amount_cents": 11207}
+{"ts": "2026-09-19T14:00:30.602000+00:00", "table": "transactions", "internal_tx_hash": "bb7585524278371b", "status": "SETTLED", "amount_cents": 112965}
+{"ts": "2026-09-19T14:00:37.980000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:24.792000+00:00", "table": "transactions", "internal_tx_hash": "19aa8d56a4e024bf", "status": "SETTLED", "amount_cents": 44486}
+{"ts": "2026-09-19T14:01:02.456000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:59.975000+00:00", "table": "transactions", "internal_tx_hash": "978975337c1618b5", "status": "SETTLED", "amount_cents": 109221}
+{"ts": "2026-09-19T14:00:58.236000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:12.238000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-7"}
+{"ts": "2026-09-19T14:00:09.495000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:16.247000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:48.389000+00:00", "table": "transactions", "internal_tx_hash": "d689092788b94e08", "status": "SETTLED", "amount_cents": 110392}
+{"ts": "2026-09-19T14:00:59.014000+00:00", "table": "transactions", "internal_tx_hash": "c99f7408c0425b43", "status": "SETTLED", "amount_cents": 171083}
+{"ts": "2026-09-19T14:00:15.115000+00:00", "table": "transactions", "internal_tx_hash": "4bd94a6ecc5aa6dc", "status": "SETTLED", "amount_cents": 189304}
+{"ts": "2026-09-19T14:00:51.906000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:34.125000+00:00", "table": "transactions", "internal_tx_hash": "00f1ca1a5aa4c9ee", "status": "SETTLED", "amount_cents": 109696}
+{"ts": "2026-09-19T14:00:49.040000+00:00", "table": "transactions", "internal_tx_hash": "271e48a529e811ff", "status": "SETTLED", "amount_cents": 12095}
+{"ts": "2026-09-19T14:01:04.649000+00:00", "table": "transactions", "internal_tx_hash": "f81ac7b93f93a66c", "status": "SETTLED", "amount_cents": 245396}
+{"ts": "2026-09-19T14:00:03.798000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:01:07.587000+00:00", "table": "transactions", "internal_tx_hash": "dcdd0909a9b11638", "status": "SETTLED", "amount_cents": 126301}
+{"ts": "2026-09-19T14:00:29.118000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:22.486000+00:00", "table": "transactions", "internal_tx_hash": "87848f5f25424a9b", "status": "SETTLED", "amount_cents": 88443}
+{"ts": "2026-09-19T14:00:20.256000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:18.568000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:04.009000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:38.669000+00:00", "table": "transactions", "internal_tx_hash": "c9b5b67df4e0aad3", "status": "SETTLED", "amount_cents": 14882}
+{"ts": "2026-09-19T14:00:18.146000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-7"}
+{"ts": "2026-09-19T14:00:36.918000+00:00", "table": "transactions", "internal_tx_hash": "6e1ba2f7f48625fb", "status": "SETTLED", "amount_cents": 155988}
+{"ts": "2026-09-19T14:00:57.696000+00:00", "table": "transactions", "internal_tx_hash": "8b76636ac44e1c02", "status": "DECLINED", "amount_cents": 65898}
+{"ts": "2026-09-19T14:00:27.219000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:40.723000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:34.928000+00:00", "table": "transactions", "internal_tx_hash": "c7008fb2b9f38ca6", "status": "SETTLED", "amount_cents": 140949}
+{"ts": "2026-09-19T14:00:32.426000+00:00", "table": "transactions", "internal_tx_hash": "e5eae4cd6161480d", "status": "DECLINED", "amount_cents": 133111}
+{"ts": "2026-09-19T14:00:32.633000+00:00", "table": "transactions", "internal_tx_hash": "7fa143a29e0fcd41", "status": "SETTLED", "amount_cents": 143373}
+{"ts": "2026-09-19T14:00:15.614000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:09.837000+00:00", "table": "transactions", "internal_tx_hash": "60b72176877e5261", "status": "SETTLED", "amount_cents": 106724}
+{"ts": "2026-09-19T14:00:37.778000+00:00", "table": "transactions", "internal_tx_hash": "e36d478b7c622757", "status": "SETTLED", "amount_cents": 243798}
+{"ts": "2026-09-19T14:00:27.085000+00:00", "table": "transactions", "internal_tx_hash": "25ff9d2f7a8802f6", "status": "SETTLED", "amount_cents": 202863}
+{"ts": "2026-09-19T14:01:03.141000+00:00", "table": "transactions", "internal_tx_hash": "6dae238bebd74e3f", "status": "SETTLED", "amount_cents": 189471}
+{"ts": "2026-09-19T14:00:21.100000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:28.063000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-7"}
+{"ts": "2026-09-19T14:01:01.811000+00:00", "table": "transactions", "internal_tx_hash": "dc679de6bc95389f", "status": "SETTLED", "amount_cents": 47446}
+{"ts": "2026-09-19T14:00:05.064000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:46.034000+00:00", "table": "transactions", "internal_tx_hash": "b76c1b5aae74816e", "status": "SETTLED", "amount_cents": 247576}
+{"ts": "2026-09-19T14:00:28.650000+00:00", "table": "transactions", "internal_tx_hash": "79e060e6d2fd0513", "status": "SETTLED", "amount_cents": 234331}
+{"ts": "2026-09-19T14:00:14.751000+00:00", "table": "transactions", "internal_tx_hash": "e5470869ad98225f", "status": "SETTLED", "amount_cents": 30256}
+{"ts": "2026-09-19T14:00:14.348000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:01.857000+00:00", "table": "transactions", "internal_tx_hash": "0c260615b8347166", "status": "SETTLED", "amount_cents": 112126}
+{"ts": "2026-09-19T14:00:54.438000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:52.979000+00:00", "table": "transactions", "internal_tx_hash": "d97318a268edff78", "status": "SETTLED", "amount_cents": 76341}
+{"ts": "2026-09-19T14:00:56.951000+00:00", "table": "transactions", "internal_tx_hash": "2979758248d59c76", "status": "SETTLED", "amount_cents": 47636}
+{"ts": "2026-09-19T14:01:01.961000+00:00", "table": "transactions", "internal_tx_hash": "92cb0ffacf17b306", "status": "SETTLED", "amount_cents": 31716}
+{"ts": "2026-09-19T14:00:04.431000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:29.648000+00:00", "table": "transactions", "internal_tx_hash": "3592b1f74aaee729", "status": "SETTLED", "amount_cents": 150093}
+{"ts": "2026-09-19T14:00:32.030000+00:00", "table": "transactions", "internal_tx_hash": "d4e8c275b0f3c641", "status": "SETTLED", "amount_cents": 246581}
+{"ts": "2026-09-19T14:00:56.514000+00:00", "table": "transactions", "internal_tx_hash": "7ef0a4e6e2869ce9", "status": "DECLINED", "amount_cents": 174677}
+{"ts": "2026-09-19T14:00:30.384000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-7"}
+{"ts": "2026-09-19T14:00:51.872000+00:00", "table": "transactions", "internal_tx_hash": "f9cba51ede576256", "status": "SETTLED", "amount_cents": 135347}
+{"ts": "2026-09-19T14:01:00.346000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-7"}
+{"ts": "2026-09-19T14:00:19.671000+00:00", "table": "transactions", "internal_tx_hash": "045b537ced9c01b5", "status": "SETTLED", "amount_cents": 174242}
+{"ts": "2026-09-19T14:00:01.422000+00:00", "table": "transactions", "internal_tx_hash": "5ab8e9157949a509", "status": "SETTLED", "amount_cents": 151585}
+{"ts": "2026-09-19T14:00:06.330000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:06.752000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:09.473000+00:00", "table": "transactions", "internal_tx_hash": "b60b1aeb85a4b570", "status": "SETTLED", "amount_cents": 66879}
+{"ts": "2026-09-19T14:00:45.576000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:59.924000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:16.661000+00:00", "table": "transactions", "internal_tx_hash": "ea629d567fdabe4b", "status": "SETTLED", "amount_cents": 204929}
+{"ts": "2026-09-19T14:00:30.173000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:41.778000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:36.339000+00:00", "table": "transactions", "internal_tx_hash": "3d2c0ddf079fb85f", "status": "SETTLED", "amount_cents": 192538}
+{"ts": "2026-09-19T14:00:11.650000+00:00", "table": "transactions", "internal_tx_hash": "be934dcd82a06aa5", "status": "SETTLED", "amount_cents": 238341}
+{"ts": "2026-09-19T14:00:58.968000+00:00", "table": "transactions", "internal_tx_hash": "c10029b4492ea2e7", "status": "SETTLED", "amount_cents": 115317}
+{"ts": "2026-09-19T14:00:23.843000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:15.403000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:48.543000+00:00", "table": "transactions", "internal_tx_hash": "87064da3e59054c7", "status": "SETTLED", "amount_cents": 148203}
+{"ts": "2026-09-19T14:00:51.273000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:22.676000+00:00", "table": "transactions", "internal_tx_hash": "620ad4f60f668af0", "status": "SETTLED", "amount_cents": 103886}
+{"ts": "2026-09-19T14:00:59.502000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:35.910000+00:00", "table": "transactions", "internal_tx_hash": "7105b6682cd5371a", "status": "SETTLED", "amount_cents": 15333}
+{"ts": "2026-09-19T14:00:04.853000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-7"}
+{"ts": "2026-09-19T14:00:44.238000+00:00", "table": "transactions", "internal_tx_hash": "39d2d1277d5703f7", "status": "SETTLED", "amount_cents": 229031}
+{"ts": "2026-09-19T14:00:41.802000+00:00", "table": "transactions", "internal_tx_hash": "51cee90e08cd66af", "status": "SETTLED", "amount_cents": 94220}
+{"ts": "2026-09-19T14:00:12.934000+00:00", "table": "transactions", "internal_tx_hash": "c576d3e2fc26aa45", "status": "SETTLED", "amount_cents": 114997}
+{"ts": "2026-09-19T14:00:19.056000+00:00", "table": "transactions", "internal_tx_hash": "1373d77c8776d646", "status": "SETTLED", "amount_cents": 69059}
+{"ts": "2026-09-19T14:01:06.009000+00:00", "table": "transactions", "internal_tx_hash": "0ba8d48a1906616a", "status": "SETTLED", "amount_cents": 158111}
+{"ts": "2026-09-19T14:00:23.015000+00:00", "table": "transactions", "internal_tx_hash": "c8e8f50774b9c398", "status": "SETTLED", "amount_cents": 10848}
+{"ts": "2026-09-19T14:00:00+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:48.952000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:10.663000+00:00", "table": "transactions", "internal_tx_hash": "7549a22810f94566", "status": "SETTLED", "amount_cents": 20638}
+{"ts": "2026-09-19T14:00:28.334000+00:00", "table": "transactions", "internal_tx_hash": "1377756c986d5fec", "status": "DECLINED", "amount_cents": 235938}
+{"ts": "2026-09-19T14:00:53.086000+00:00", "table": "transactions", "internal_tx_hash": "bd9472e3adaf0865", "status": "SETTLED", "amount_cents": 128078}
+{"ts": "2026-09-19T14:00:19.480000+00:00", "table": "transactions", "internal_tx_hash": "8e8dedf249fe1a61", "status": "SETTLED", "amount_cents": 146629}
+{"ts": "2026-09-19T14:00:48.856000+00:00", "table": "transactions", "internal_tx_hash": "d7669e3f61b5bfa2", "status": "SETTLED", "amount_cents": 159746}
+{"ts": "2026-09-19T14:00:18.818000+00:00", "table": "transactions", "internal_tx_hash": "8e394759f6609863", "status": "SETTLED", "amount_cents": 112806}
+{"ts": "2026-09-19T14:00:00.738000+00:00", "table": "transactions", "internal_tx_hash": "5326eac1b0d1dff6", "status": "SETTLED", "amount_cents": 94057}
+{"ts": "2026-09-19T14:00:09.680000+00:00", "table": "transactions", "internal_tx_hash": "0458e19bfe86e496", "status": "SETTLED", "amount_cents": 16061}
+{"ts": "2026-09-19T14:00:40.851000+00:00", "table": "transactions", "internal_tx_hash": "27eda2e0494397ce", "status": "SETTLED", "amount_cents": 152157}
+{"ts": "2026-09-19T14:00:34.142000+00:00", "table": "transactions", "internal_tx_hash": "f42756a733574611", "status": "SETTLED", "amount_cents": 182369}
+{"ts": "2026-09-19T14:00:35.448000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:45.428000+00:00", "table": "transactions", "internal_tx_hash": "7f0fd0858d441a99", "status": "SETTLED", "amount_cents": 218341}
+{"ts": "2026-09-19T14:00:16.669000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:43.403000+00:00", "table": "transactions", "internal_tx_hash": "66c26b57b0c17ac0", "status": "SETTLED", "amount_cents": 46933}
+{"ts": "2026-09-19T14:00:31.368000+00:00", "table": "transactions", "internal_tx_hash": "47232b1dd5fb6f8f", "status": "SETTLED", "amount_cents": 90756}
+{"ts": "2026-09-19T14:00:50.429000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:14.374000+00:00", "table": "transactions", "internal_tx_hash": "1f17c0b10a3f4a10", "status": "SETTLED", "amount_cents": 181464}
+{"ts": "2026-09-19T14:00:42.863000+00:00", "table": "transactions", "internal_tx_hash": "4a4c3d0174e2c742", "status": "SETTLED", "amount_cents": 137282}
+{"ts": "2026-09-19T14:00:21.733000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:55.915000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:01.266000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:52.117000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:01:06.187000+00:00", "table": "transactions", "internal_tx_hash": "d02f64907b31e737", "status": "SETTLED", "amount_cents": 132022}
+{"ts": "2026-09-19T14:00:12.667000+00:00", "table": "transactions", "internal_tx_hash": "e7f201a3a8d9c597", "status": "SETTLED", "amount_cents": 186817}
+{"ts": "2026-09-19T14:00:58.467000+00:00", "table": "transactions", "internal_tx_hash": "7a98798affbb5d5e", "status": "SETTLED", "amount_cents": 113113}
+{"ts": "2026-09-19T14:00:04.728000+00:00", "table": "transactions", "internal_tx_hash": "2e4204714c02003d", "status": "SETTLED", "amount_cents": 241967}
+{"ts": "2026-09-19T14:00:21.034000+00:00", "table": "transactions", "internal_tx_hash": "01c3074b95ebb384", "status": "SETTLED", "amount_cents": 248925}
+{"ts": "2026-09-19T14:00:49.482000+00:00", "table": "transactions", "internal_tx_hash": "9480e6cd696b1847", "status": "SETTLED", "amount_cents": 47262}
+{"ts": "2026-09-19T14:00:25.807000+00:00", "table": "transactions", "internal_tx_hash": "4eb74eac573e97d4", "status": "SETTLED", "amount_cents": 38614}
+{"ts": "2026-09-19T14:00:24.898000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:18.287000+00:00", "table": "transactions", "internal_tx_hash": "4bb6232093901f19", "status": "SETTLED", "amount_cents": 164560}
+{"ts": "2026-09-19T14:00:55.289000+00:00", "table": "transactions", "internal_tx_hash": "a86be1cfe50dc89a", "status": "SETTLED", "amount_cents": 193462}
+{"ts": "2026-09-19T14:01:01.091000+00:00", "table": "transactions", "internal_tx_hash": "94dbf1228b2b7493", "status": "SETTLED", "amount_cents": 121619}
+{"ts": "2026-09-19T14:01:04.009000+00:00", "table": "transactions", "internal_tx_hash": "3434dbb1fdddc990", "status": "SETTLED", "amount_cents": 25186}
+{"ts": "2026-09-19T14:00:39.086000+00:00", "table": "transactions", "internal_tx_hash": "60b02165bdae2f25", "status": "SETTLED", "amount_cents": 225067}
+{"ts": "2026-09-19T14:00:19.885000+00:00", "table": "transactions", "internal_tx_hash": "9f13e6e403eef47a", "status": "SETTLED", "amount_cents": 106380}
+{"ts": "2026-09-19T14:00:49.752000+00:00", "table": "transactions", "internal_tx_hash": "c7e072b3b1efc44d", "status": "SETTLED", "amount_cents": 99321}
+{"ts": "2026-09-19T14:00:30.658000+00:00", "table": "transactions", "internal_tx_hash": "a92d3a50e90b877a", "status": "SETTLED", "amount_cents": 85926}
+{"ts": "2026-09-19T14:00:14.738000+00:00", "table": "transactions", "internal_tx_hash": "046c6c20f5c1b485", "status": "DECLINED", "amount_cents": 223147}
+{"ts": "2026-09-19T14:00:35.443000+00:00", "table": "transactions", "internal_tx_hash": "4bda9762605ab506", "status": "SETTLED", "amount_cents": 130777}
+{"ts": "2026-09-19T14:00:10.550000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:28.260000+00:00", "table": "transactions", "internal_tx_hash": "9dac9ed852346358", "status": "SETTLED", "amount_cents": 100944}
+{"ts": "2026-09-19T14:01:08.064000+00:00", "table": "transactions", "internal_tx_hash": "2da25ceb88d33119", "status": "SETTLED", "amount_cents": 164469}
+{"ts": "2026-09-19T14:00:38.455000+00:00", "table": "transactions", "internal_tx_hash": "37f9d8c912a43cdb", "status": "SETTLED", "amount_cents": 200255}
+{"ts": "2026-09-19T14:00:59.396000+00:00", "table": "transactions", "internal_tx_hash": "bf7fdbce0cc72c65", "status": "SETTLED", "amount_cents": 90384}
+{"ts": "2026-09-19T14:00:29.329000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:07.842000+00:00", "table": "transactions", "internal_tx_hash": "6369ac01feaf1f7c", "status": "SETTLED", "amount_cents": 80248}
+{"ts": "2026-09-19T14:00:23.770000+00:00", "table": "transactions", "internal_tx_hash": "1ade0071e53e8592", "status": "SETTLED", "amount_cents": 201974}
+{"ts": "2026-09-19T14:00:26.375000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:08.504000+00:00", "table": "transactions", "internal_tx_hash": "6ff873cc576d1eb8", "status": "DECLINED", "amount_cents": 248640}
+{"ts": "2026-09-19T14:00:50.640000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-7"}
+{"ts": "2026-09-19T14:00:03.376000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:01:02.281000+00:00", "table": "transactions", "internal_tx_hash": "74e277aa59030dbc", "status": "SETTLED", "amount_cents": 172384}
+{"ts": "2026-09-19T14:01:02.360000+00:00", "table": "transactions", "internal_tx_hash": "b342a01f7a300ee3", "status": "SETTLED", "amount_cents": 60006}
+{"ts": "2026-09-19T14:00:36.292000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:19.834000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:53.361000+00:00", "table": "transactions", "internal_tx_hash": "a2fed765827efebe", "status": "SETTLED", "amount_cents": 158681}
+{"ts": "2026-09-19T14:00:53.758000+00:00", "table": "transactions", "internal_tx_hash": "b2e5baab88fed503", "status": "SETTLED", "amount_cents": 173577}
+{"ts": "2026-09-19T14:00:38.191000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:15.503000+00:00", "table": "transactions", "internal_tx_hash": "aceb86eada32d897", "status": "SETTLED", "amount_cents": 218563}
+{"ts": "2026-09-19T14:00:57.329000+00:00", "table": "transactions", "internal_tx_hash": "1c58aaff26201828", "status": "SETTLED", "amount_cents": 163635}
+{"ts": "2026-09-19T14:00:10.077000+00:00", "table": "transactions", "internal_tx_hash": "62236cd386027d02", "status": "SETTLED", "amount_cents": 122825}
+{"ts": "2026-09-19T14:00:04.174000+00:00", "table": "transactions", "internal_tx_hash": "ad9bf67f7d5aa2e5", "status": "SETTLED", "amount_cents": 146721}
+{"ts": "2026-09-19T14:00:00.491000+00:00", "table": "transactions", "internal_tx_hash": "b22fdf6e2e9b51bc", "status": "SETTLED", "amount_cents": 13590}
+{"ts": "2026-09-19T14:00:51.032000+00:00", "table": "transactions", "internal_tx_hash": "eb72834ee065d382", "status": "SETTLED", "amount_cents": 209836}
+{"ts": "2026-09-19T14:00:31.464000+00:00", "table": "transactions", "internal_tx_hash": "72f9b133ae9bb1d1", "status": "SETTLED", "amount_cents": 177170}
+{"ts": "2026-09-19T14:00:02.388000+00:00", "table": "transactions", "internal_tx_hash": "17212c56725a2d4d", "status": "SETTLED", "amount_cents": 90485}
+{"ts": "2026-09-19T14:00:54.860000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:04.220000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:09.284000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:13.035000+00:00", "table": "transactions", "internal_tx_hash": "b010bbd674a22d75", "status": "SETTLED", "amount_cents": 88885}
+{"ts": "2026-09-19T14:00:43.386000+00:00", "table": "transactions", "internal_tx_hash": "311430281762d200", "status": "SETTLED", "amount_cents": 17487}
+{"ts": "2026-09-19T14:00:34.895000+00:00", "table": "transactions", "internal_tx_hash": "9022169e2c23793a", "status": "SETTLED", "amount_cents": 152498}
+{"ts": "2026-09-19T14:00:42.242000+00:00", "table": "transactions", "internal_tx_hash": "18bc1d878cd9588a", "status": "SETTLED", "amount_cents": 191328}
+{"ts": "2026-09-19T14:00:49.497000+00:00", "table": "transactions", "internal_tx_hash": "fdffb77632dbbe62", "status": "SETTLED", "amount_cents": 154085}
+{"ts": "2026-09-19T14:00:20.788000+00:00", "table": "transactions", "internal_tx_hash": "09dbae21b4ed093d", "status": "SETTLED", "amount_cents": 138486}
+{"ts": "2026-09-19T14:00:20.519000+00:00", "table": "transactions", "internal_tx_hash": "da0e496c890628b7", "status": "SETTLED", "amount_cents": 161298}
+{"ts": "2026-09-19T14:00:02.321000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:41.656000+00:00", "table": "transactions", "internal_tx_hash": "2463c784dc212dd8", "status": "SETTLED", "amount_cents": 173682}
+{"ts": "2026-09-19T14:00:04.565000+00:00", "table": "transactions", "internal_tx_hash": "6f922d706b99223d", "status": "SETTLED", "amount_cents": 106977}
+{"ts": "2026-09-19T14:00:07.385000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:18.706000+00:00", "table": "transactions", "internal_tx_hash": "754f357ae43a5dd2", "status": "SETTLED", "amount_cents": 140654}
+{"ts": "2026-09-19T14:00:41.989000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:57.850000+00:00", "table": "transactions", "internal_tx_hash": "671b0529664b44a8", "status": "SETTLED", "amount_cents": 23398}
+{"ts": "2026-09-19T14:00:29.361000+00:00", "table": "transactions", "internal_tx_hash": "8f54b4dde043d6d3", "status": "SETTLED", "amount_cents": 159165}
+{"ts": "2026-09-19T14:00:02.532000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:01:04.771000+00:00", "table": "transactions", "internal_tx_hash": "c6f376b90b745a57", "status": "SETTLED", "amount_cents": 125024}
+{"ts": "2026-09-19T14:00:50.090000+00:00", "table": "transactions", "internal_tx_hash": "2e2622e3b2c3cb89", "status": "SETTLED", "amount_cents": 220444}
+{"ts": "2026-09-19T14:00:14.534000+00:00", "table": "transactions", "internal_tx_hash": "eff7a0234bee1585", "status": "SETTLED", "amount_cents": 26318}
+{"ts": "2026-09-19T14:00:10.761000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:22.103000+00:00", "table": "transactions", "internal_tx_hash": "a23f6d065870c75e", "status": "SETTLED", "amount_cents": 2082}
+{"ts": "2026-09-19T14:00:56.759000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:16.140000+00:00", "table": "transactions", "internal_tx_hash": "7b511e91f22dcf7f", "status": "SETTLED", "amount_cents": 135015}
+{"ts": "2026-09-19T14:00:40.600000+00:00", "table": "transactions", "internal_tx_hash": "4bb3e2f49e7afaf2", "status": "SETTLED", "amount_cents": 221312}
+{"ts": "2026-09-19T14:00:27.441000+00:00", "table": "transactions", "internal_tx_hash": "fbfaa2f371aff4aa", "status": "SETTLED", "amount_cents": 65486}
+{"ts": "2026-09-19T14:00:11.045000+00:00", "table": "transactions", "internal_tx_hash": "210b2678f1345eb5", "status": "SETTLED", "amount_cents": 127449}
+{"ts": "2026-09-19T14:00:28.274000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:10.339000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:13.942000+00:00", "table": "transactions", "internal_tx_hash": "01e9dc0a2299895b", "status": "SETTLED", "amount_cents": 179669}
+{"ts": "2026-09-19T14:00:14.770000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:09.073000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:04.721000+00:00", "table": "transactions", "internal_tx_hash": "fdfc525be40bb9d7", "status": "SETTLED", "amount_cents": 212075}
+{"ts": "2026-09-19T14:00:35.680000+00:00", "table": "transactions", "internal_tx_hash": "87d5c0019f749402", "status": "SETTLED", "amount_cents": 133097}
+{"ts": "2026-09-19T14:01:04.193000+00:00", "table": "transactions", "internal_tx_hash": "ead0be2706e54878", "status": "DECLINED", "amount_cents": 230545}
+{"ts": "2026-09-19T14:00:32.174000+00:00", "table": "transactions", "internal_tx_hash": "683c3217e9ba7e90", "status": "DECLINED", "amount_cents": 65427}
+{"ts": "2026-09-19T14:00:40.512000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:00.911000+00:00", "table": "transactions", "internal_tx_hash": "d67803a22f3d46b0", "status": "SETTLED", "amount_cents": 102793}
+{"ts": "2026-09-19T14:00:44.943000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:30.874000+00:00", "table": "transactions", "internal_tx_hash": "e6243bafed7b6693", "status": "SETTLED", "amount_cents": 214958}
+{"ts": "2026-09-19T14:00:09.020000+00:00", "table": "transactions", "internal_tx_hash": "c73dde4d5bcb4b94", "status": "SETTLED", "amount_cents": 17572}
+{"ts": "2026-09-19T14:00:46.883000+00:00", "table": "transactions", "internal_tx_hash": "92f58e6cef119150", "status": "SETTLED", "amount_cents": 191881}
+{"ts": "2026-09-19T14:01:05.869000+00:00", "table": "transactions", "internal_tx_hash": "f10edf2e038d84ea", "status": "SETTLED", "amount_cents": 6438}
+{"ts": "2026-09-19T14:00:44.620000+00:00", "table": "transactions", "internal_tx_hash": "2b36e8061ca04279", "status": "DECLINED", "amount_cents": 71411}
+{"ts": "2026-09-19T14:01:00.518000+00:00", "table": "transactions", "internal_tx_hash": "2f457a5591fc9604", "status": "SETTLED", "amount_cents": 184767}
+{"ts": "2026-09-19T14:00:42.700000+00:00", "table": "transactions", "internal_tx_hash": "3ab5eeac4cc37478", "status": "SETTLED", "amount_cents": 109125}
+{"ts": "2026-09-19T14:00:20.312000+00:00", "table": "transactions", "internal_tx_hash": "18164bde10d84fb5", "status": "SETTLED", "amount_cents": 220399}
+{"ts": "2026-09-19T14:00:13.181000+00:00", "table": "transactions", "internal_tx_hash": "48fd87ebab5a6fae", "status": "SETTLED", "amount_cents": 153193}
+{"ts": "2026-09-19T14:00:29.751000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:36.714000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:33.596000+00:00", "table": "transactions", "internal_tx_hash": "92b74ad9b54ca10a", "status": "SETTLED", "amount_cents": 145647}
+{"ts": "2026-09-19T14:01:06.243000+00:00", "table": "transactions", "internal_tx_hash": "f6ca54d27e460f51", "status": "SETTLED", "amount_cents": 64207}
+{"ts": "2026-09-19T14:00:17.513000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-7"}
+{"ts": "2026-09-19T14:01:03.906000+00:00", "table": "transactions", "internal_tx_hash": "644f53d40103465e", "status": "DECLINED", "amount_cents": 18656}
+{"ts": "2026-09-19T14:00:07.174000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:21.472000+00:00", "table": "transactions", "internal_tx_hash": "691e59255080209a", "status": "SETTLED", "amount_cents": 126630}
+{"ts": "2026-09-19T14:00:27.852000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:05.697000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:12.105000+00:00", "table": "transactions", "internal_tx_hash": "6b9716f3127b187c", "status": "SETTLED", "amount_cents": 167337}
+{"ts": "2026-09-19T14:00:08.018000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:24+00:00", "table": "transactions", "internal_tx_hash": "7abd36c9440f8830", "status": "SETTLED", "amount_cents": 41889}
+{"ts": "2026-09-19T14:00:10.710000+00:00", "table": "transactions", "internal_tx_hash": "e2b1be631249f3dc", "status": "SETTLED", "amount_cents": 113878}
+{"ts": "2026-09-19T14:00:21.311000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:15.599000+00:00", "table": "transactions", "internal_tx_hash": "ffc650bbc283b673", "status": "SETTLED", "amount_cents": 50405}
+{"ts": "2026-09-19T14:00:56.337000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:16.458000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:56.813000+00:00", "table": "transactions", "internal_tx_hash": "e446cba8cc2831fa", "status": "SETTLED", "amount_cents": 112869}
+{"ts": "2026-09-19T14:00:11.742000+00:00", "table": "transactions", "internal_tx_hash": "d8dc5b8a3beef7b5", "status": "SETTLED", "amount_cents": 196910}
+{"ts": "2026-09-19T14:00:41.938000+00:00", "table": "transactions", "internal_tx_hash": "ba7a44e346a0e83a", "status": "SETTLED", "amount_cents": 53094}
+{"ts": "2026-09-19T14:00:05.949000+00:00", "table": "transactions", "internal_tx_hash": "befb94a517167eca", "status": "SETTLED", "amount_cents": 95475}
+{"ts": "2026-09-19T14:00:41.145000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:25.320000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:00.633000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:51.062000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:23.644000+00:00", "table": "transactions", "internal_tx_hash": "f01ec4a8ec376c4d", "status": "SETTLED", "amount_cents": 12251}
+{"ts": "2026-09-19T14:00:17.510000+00:00", "table": "transactions", "internal_tx_hash": "6b5a0503b518d9c8", "status": "SETTLED", "amount_cents": 76376}
+{"ts": "2026-09-19T14:00:07.807000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:58.150000+00:00", "table": "transactions", "internal_tx_hash": "64be34e40c59b1db", "status": "SETTLED", "amount_cents": 141943}
+{"ts": "2026-09-19T14:00:15.192000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:35.567000+00:00", "table": "transactions", "internal_tx_hash": "173a8e8fc5952446", "status": "SETTLED", "amount_cents": 149777}
+{"ts": "2026-09-19T14:00:52.750000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:47.426000+00:00", "table": "transactions", "internal_tx_hash": "aed2df5bf9b0bc63", "status": "SETTLED", "amount_cents": 213708}
+{"ts": "2026-09-19T14:00:53.111000+00:00", "table": "transactions", "internal_tx_hash": "3c0407fcc08fdca5", "status": "SETTLED", "amount_cents": 69721}
+{"ts": "2026-09-19T14:01:03.089000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:01:05.004000+00:00", "table": "transactions", "internal_tx_hash": "8ee74292e580d704", "status": "SETTLED", "amount_cents": 166942}
+{"ts": "2026-09-19T14:00:44.045000+00:00", "table": "transactions", "internal_tx_hash": "dd6be35208997ef2", "status": "SETTLED", "amount_cents": 179093}
+{"ts": "2026-09-19T14:00:47.897000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:34.815000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-7"}
+{"ts": "2026-09-19T14:00:09.917000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:19.623000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:56.660000+00:00", "table": "transactions", "internal_tx_hash": "1b90312132d96cb5", "status": "SETTLED", "amount_cents": 28538}
+{"ts": "2026-09-19T14:00:10.304000+00:00", "table": "transactions", "internal_tx_hash": "cf20cad2e9d2d49f", "status": "DECLINED", "amount_cents": 192197}
+{"ts": "2026-09-19T14:00:14.449000+00:00", "table": "transactions", "internal_tx_hash": "5583813469336e87", "status": "SETTLED", "amount_cents": 157348}
+{"ts": "2026-09-19T14:00:42.050000+00:00", "table": "transactions", "internal_tx_hash": "51999b2ed1e6e259", "status": "SETTLED", "amount_cents": 17486}
+{"ts": "2026-09-19T14:00:37.769000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:56.548000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:16.601000+00:00", "table": "transactions", "internal_tx_hash": "738ab8f18889e020", "status": "SETTLED", "amount_cents": 56653}
+{"ts": "2026-09-19T14:00:36.933000+00:00", "table": "transactions", "internal_tx_hash": "511988df130f3da0", "status": "DECLINED", "amount_cents": 12541}
+{"ts": "2026-09-19T14:00:03.896000+00:00", "table": "transactions", "internal_tx_hash": "247b84cc54f3ed02", "status": "SETTLED", "amount_cents": 249109}
+{"ts": "2026-09-19T14:01:01.612000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:38.528000+00:00", "table": "transactions", "internal_tx_hash": "6cae0ab35979f849", "status": "SETTLED", "amount_cents": 215427}
+{"ts": "2026-09-19T14:00:50.759000+00:00", "table": "transactions", "internal_tx_hash": "7d2cdadd4eb198e3", "status": "SETTLED", "amount_cents": 47892}
+{"ts": "2026-09-19T14:00:12.871000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:17.302000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:34.604000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:07.878000+00:00", "table": "transactions", "internal_tx_hash": "1ed7fc312e6a4629", "status": "SETTLED", "amount_cents": 28947}
+{"ts": "2026-09-19T14:00:02.954000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:23.305000+00:00", "table": "transactions", "internal_tx_hash": "030fafc2f2abe69d", "status": "SETTLED", "amount_cents": 178452}
+{"ts": "2026-09-19T14:01:06.075000+00:00", "table": "transactions", "internal_tx_hash": "47224db56d812d6a", "status": "SETTLED", "amount_cents": 686}
+{"ts": "2026-09-19T14:00:02.295000+00:00", "table": "transactions", "internal_tx_hash": "e37b5ddcb3d81292", "status": "SETTLED", "amount_cents": 196175}
+{"ts": "2026-09-19T14:00:53.516000+00:00", "table": "transactions", "internal_tx_hash": "8e776a91bc3686cb", "status": "SETTLED", "amount_cents": 174312}
+{"ts": "2026-09-19T14:00:29.962000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:58.658000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:52.961000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:16.538000+00:00", "table": "transactions", "internal_tx_hash": "e2dfe8d18e538221", "status": "SETTLED", "amount_cents": 110862}
+{"ts": "2026-09-19T14:00:14.981000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:27.386000+00:00", "table": "transactions", "internal_tx_hash": "ff9df9ac273a745e", "status": "SETTLED", "amount_cents": 55746}
+{"ts": "2026-09-19T14:00:07.244000+00:00", "table": "transactions", "internal_tx_hash": "d98dc77146c96c1b", "status": "SETTLED", "amount_cents": 29207}
+{"ts": "2026-09-19T14:00:01.698000+00:00", "table": "transactions", "internal_tx_hash": "6c52fa1b45209c2f", "status": "SETTLED", "amount_cents": 42738}
+{"ts": "2026-09-19T14:00:17.935000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:01:02.503000+00:00", "table": "transactions", "internal_tx_hash": "6e28c7ce77c7f644", "status": "SETTLED", "amount_cents": 111971}
+{"ts": "2026-09-19T14:00:54.276000+00:00", "table": "transactions", "internal_tx_hash": "67486d40200b27c4", "status": "SETTLED", "amount_cents": 7992}
+{"ts": "2026-09-19T14:00:33.549000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-7"}
+{"ts": "2026-09-19T14:00:36.131000+00:00", "table": "transactions", "internal_tx_hash": "c020c95e0ceb7999", "status": "SETTLED", "amount_cents": 164209}
+{"ts": "2026-09-19T14:00:21.723000+00:00", "table": "transactions", "internal_tx_hash": "89c2acfe2fc0e97f", "status": "SETTLED", "amount_cents": 54486}
+{"ts": "2026-09-19T14:00:37.347000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:18.990000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:28.485000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:21.051000+00:00", "table": "transactions", "internal_tx_hash": "0dd3520f644209bc", "status": "SETTLED", "amount_cents": 53754}
+{"ts": "2026-09-19T14:00:58.869000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:24.492000+00:00", "table": "transactions", "internal_tx_hash": "f08f023920839fe4", "status": "SETTLED", "amount_cents": 49624}
+{"ts": "2026-09-19T14:01:03.132000+00:00", "table": "transactions", "internal_tx_hash": "d2d13fae21a4d2d6", "status": "SETTLED", "amount_cents": 220987}
+{"ts": "2026-09-19T14:00:55.282000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:48.108000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:15.691000+00:00", "table": "transactions", "internal_tx_hash": "7adbdf47b002f807", "status": "SETTLED", "amount_cents": 165927}
+{"ts": "2026-09-19T14:00:24.687000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:05.399000+00:00", "table": "transactions", "internal_tx_hash": "4d16367b2dd47374", "status": "SETTLED", "amount_cents": 84852}
+{"ts": "2026-09-19T14:00:03.165000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:19.201000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:01:06.631000+00:00", "table": "transactions", "internal_tx_hash": "931ca358454c0390", "status": "SETTLED", "amount_cents": 236711}
+{"ts": "2026-09-19T14:00:20.986000+00:00", "table": "transactions", "internal_tx_hash": "7a3493143a93c75a", "status": "DECLINED", "amount_cents": 19661}
+{"ts": "2026-09-19T14:00:17.724000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:38.359000+00:00", "table": "transactions", "internal_tx_hash": "6d300e9c120b2d15", "status": "SETTLED", "amount_cents": 205846}
+{"ts": "2026-09-19T14:00:27.430000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:23.143000+00:00", "table": "transactions", "internal_tx_hash": "9536d4b94e14d93f", "status": "SETTLED", "amount_cents": 205396}
+{"ts": "2026-09-19T14:01:03.273000+00:00", "table": "transactions", "internal_tx_hash": "760ad473572fe859", "status": "SETTLED", "amount_cents": 154296}
+{"ts": "2026-09-19T14:00:00.211000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:01:00.948000+00:00", "table": "transactions", "internal_tx_hash": "cdcd8633b4631829", "status": "SETTLED", "amount_cents": 191525}
+{"ts": "2026-09-19T14:01:04.350000+00:00", "table": "transactions", "internal_tx_hash": "d883fe088d9d1e20", "status": "SETTLED", "amount_cents": 185992}
+{"ts": "2026-09-19T14:00:39.457000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:01:02.419000+00:00", "table": "transactions", "internal_tx_hash": "6e97c65568f7d4bf", "status": "SETTLED", "amount_cents": 88881}
+{"ts": "2026-09-19T14:00:56.906000+00:00", "table": "transactions", "internal_tx_hash": "46c2e7a870eac4d7", "status": "SETTLED", "amount_cents": 95460}
+{"ts": "2026-09-19T14:00:38.117000+00:00", "table": "transactions", "internal_tx_hash": "bbe8018e745d5def", "status": "SETTLED", "amount_cents": 219314}
+{"ts": "2026-09-19T14:00:11.432000+00:00", "table": "transactions", "internal_tx_hash": "4ec6b5b1dd037031", "status": "SETTLED", "amount_cents": 130147}
+{"ts": "2026-09-19T14:00:26.797000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:36.469000+00:00", "table": "transactions", "internal_tx_hash": "61d8e3e487a7242c", "status": "SETTLED", "amount_cents": 72193}
+{"ts": "2026-09-19T14:00:08.169000+00:00", "table": "transactions", "internal_tx_hash": "14f098df9104bc77", "status": "SETTLED", "amount_cents": 81336}
+{"ts": "2026-09-19T14:00:34.393000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:35.455000+00:00", "table": "transactions", "internal_tx_hash": "a942cfbf1f286997", "status": "SETTLED", "amount_cents": 52209}
+{"ts": "2026-09-19T14:00:43.255000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:17.259000+00:00", "table": "transactions", "internal_tx_hash": "2a08f5d960193ca9", "status": "SETTLED", "amount_cents": 106101}
+{"ts": "2026-09-19T14:00:49.923000+00:00", "table": "transactions", "internal_tx_hash": "338c86a86fe1c59e", "status": "SETTLED", "amount_cents": 178510}
+{"ts": "2026-09-19T14:00:51.441000+00:00", "table": "transactions", "internal_tx_hash": "9d5ec8e67def7840", "status": "DECLINED", "amount_cents": 103038}
+{"ts": "2026-09-19T14:00:58.703000+00:00", "table": "transactions", "internal_tx_hash": "07f8a6fdb3aa7936", "status": "SETTLED", "amount_cents": 124241}
+{"ts": "2026-09-19T14:00:26.096000+00:00", "table": "transactions", "internal_tx_hash": "281e53c38695fa23", "status": "SETTLED", "amount_cents": 130106}
+{"ts": "2026-09-19T14:00:46.923000+00:00", "table": "transactions", "internal_tx_hash": "a7d160391b7f4ba5", "status": "SETTLED", "amount_cents": 54737}
+{"ts": "2026-09-19T14:00:28.139000+00:00", "table": "transactions", "internal_tx_hash": "6c224d1764fc6122", "status": "SETTLED", "amount_cents": 163162}
+{"ts": "2026-09-19T14:00:59.713000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:13.715000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:55.246000+00:00", "table": "transactions", "internal_tx_hash": "5d70162e214db4ad", "status": "SETTLED", "amount_cents": 231998}
+{"ts": "2026-09-19T14:00:35.948000+00:00", "table": "transactions", "internal_tx_hash": "eb01052ac657bc79", "status": "SETTLED", "amount_cents": 230225}
+{"ts": "2026-09-19T14:00:23.210000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:20.889000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:08.440000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:12.945000+00:00", "table": "transactions", "internal_tx_hash": "f72b198aad9ad71b", "status": "SETTLED", "amount_cents": 209660}
+{"ts": "2026-09-19T14:00:30.595000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:19.412000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:44.521000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:27.038000+00:00", "table": "transactions", "internal_tx_hash": "9ee1137cf4687903", "status": "SETTLED", "amount_cents": 157868}
+{"ts": "2026-09-19T14:00:20.852000+00:00", "table": "transactions", "internal_tx_hash": "16279de388c10f3c", "status": "SETTLED", "amount_cents": 119469}
+{"ts": "2026-09-19T14:00:20.155000+00:00", "table": "transactions", "internal_tx_hash": "5d49d2823fc42e3d", "status": "SETTLED", "amount_cents": 132867}
+{"ts": "2026-09-19T14:00:35.026000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:01:07.514000+00:00", "table": "transactions", "internal_tx_hash": "73b0462954ec1e32", "status": "SETTLED", "amount_cents": 98087}
+{"ts": "2026-09-19T14:00:54.016000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:30.097000+00:00", "table": "transactions", "internal_tx_hash": "518c6aa2b5b1cab0", "status": "SETTLED", "amount_cents": 114703}
+{"ts": "2026-09-19T14:00:17.465000+00:00", "table": "transactions", "internal_tx_hash": "256ef1ca7933d00f", "status": "SETTLED", "amount_cents": 158771}
+{"ts": "2026-09-19T14:00:41.207000+00:00", "table": "transactions", "internal_tx_hash": "bdfad7dcb539d66e", "status": "SETTLED", "amount_cents": 75691}
+{"ts": "2026-09-19T14:01:00.541000+00:00", "table": "transactions", "internal_tx_hash": "27e8cf7047ff8d06", "status": "SETTLED", "amount_cents": 145005}
+{"ts": "2026-09-19T14:00:32.705000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:01:06.218000+00:00", "table": "transactions", "internal_tx_hash": "f5628f8f54418ba8", "status": "SETTLED", "amount_cents": 55276}
+{"ts": "2026-09-19T14:00:54.446000+00:00", "table": "transactions", "internal_tx_hash": "1ba3ff13e64cec49", "status": "SETTLED", "amount_cents": 120999}
+{"ts": "2026-09-19T14:01:00.768000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:31.228000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:06.766000+00:00", "table": "transactions", "internal_tx_hash": "37f7219f10a2529d", "status": "SETTLED", "amount_cents": 139836}
+{"ts": "2026-09-19T14:01:02.734000+00:00", "table": "transactions", "internal_tx_hash": "698e49cf74d3908d", "status": "SETTLED", "amount_cents": 58531}
+{"ts": "2026-09-19T14:00:40.934000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:46.260000+00:00", "table": "transactions", "internal_tx_hash": "c54cd53c6f7f267d", "status": "SETTLED", "amount_cents": 123172}
+{"ts": "2026-09-19T14:00:16.036000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:11.877000+00:00", "table": "transactions", "internal_tx_hash": "44f74f405a033454", "status": "SETTLED", "amount_cents": 151893}
+{"ts": "2026-09-19T14:00:52.273000+00:00", "table": "transactions", "internal_tx_hash": "1a1f296c04dbfda7", "status": "SETTLED", "amount_cents": 9881}
+{"ts": "2026-09-19T14:00:03.637000+00:00", "table": "transactions", "internal_tx_hash": "6329baceacaf9c90", "status": "SETTLED", "amount_cents": 4143}
+{"ts": "2026-09-19T14:00:11.561000+00:00", "table": "transactions", "internal_tx_hash": "83d09c96024dc75d", "status": "SETTLED", "amount_cents": 212389}
+{"ts": "2026-09-19T14:00:06.963000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:45.273000+00:00", "table": "transactions", "internal_tx_hash": "944c898e73137d2c", "status": "SETTLED", "amount_cents": 234288}
+{"ts": "2026-09-19T14:00:06.784000+00:00", "table": "transactions", "internal_tx_hash": "80b31e1bde139bb5", "status": "SETTLED", "amount_cents": 50291}
+{"ts": "2026-09-19T14:00:22.577000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:11.167000+00:00", "table": "transactions", "internal_tx_hash": "a9898423ad3854d0", "status": "DECLINED", "amount_cents": 236039}
+{"ts": "2026-09-19T14:00:51.177000+00:00", "table": "transactions", "internal_tx_hash": "aa3c502b1056b547", "status": "SETTLED", "amount_cents": 141658}
+{"ts": "2026-09-19T14:00:32.069000+00:00", "table": "transactions", "internal_tx_hash": "952b8002cfbec146", "status": "SETTLED", "amount_cents": 32540}
+{"ts": "2026-09-19T14:00:50.636000+00:00", "table": "transactions", "internal_tx_hash": "15a79710d21decfc", "status": "SETTLED", "amount_cents": 159857}
+{"ts": "2026-09-19T14:01:03.177000+00:00", "table": "transactions", "internal_tx_hash": "05cd61444799ccd9", "status": "SETTLED", "amount_cents": 3913}
+{"ts": "2026-09-19T14:00:05.738000+00:00", "table": "transactions", "internal_tx_hash": "a9bd4dc391572310", "status": "SETTLED", "amount_cents": 138991}
+{"ts": "2026-09-19T14:00:43.466000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:44.683000+00:00", "table": "transactions", "internal_tx_hash": "4d6b7e680f815dec", "status": "SETTLED", "amount_cents": 2429}
+{"ts": "2026-09-19T14:00:24.476000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:18.795000+00:00", "table": "transactions", "internal_tx_hash": "4333f0e739a0ebb5", "status": "SETTLED", "amount_cents": 228730}
+{"ts": "2026-09-19T14:00:59.080000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:46.899000+00:00", "table": "transactions", "internal_tx_hash": "5104535e9793bdaa", "status": "SETTLED", "amount_cents": 45534}
+{"ts": "2026-09-19T14:00:17.021000+00:00", "table": "transactions", "internal_tx_hash": "be5654508ab0ebeb", "status": "SETTLED", "amount_cents": 99051}
+{"ts": "2026-09-19T14:00:51.484000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:54.279000+00:00", "table": "transactions", "internal_tx_hash": "0eb3ecbe9d075e01", "status": "SETTLED", "amount_cents": 245531}
+{"ts": "2026-09-19T14:00:44.992000+00:00", "table": "transactions", "internal_tx_hash": "9f540eaee1de1d17", "status": "SETTLED", "amount_cents": 222318}
+{"ts": "2026-09-19T14:00:32.916000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:31.861000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:01:02.034000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:03.581000+00:00", "table": "transactions", "internal_tx_hash": "8ecbc000ba143358", "status": "SETTLED", "amount_cents": 93489}
+{"ts": "2026-09-19T14:00:50.689000+00:00", "table": "transactions", "internal_tx_hash": "c64dd65e736e1aff", "status": "SETTLED", "amount_cents": 235869}
+{"ts": "2026-09-19T14:00:06.368000+00:00", "table": "transactions", "internal_tx_hash": "4f6c6430ea12a77a", "status": "SETTLED", "amount_cents": 127610}
+{"ts": "2026-09-19T14:00:09.552000+00:00", "table": "transactions", "internal_tx_hash": "fc31225ac9bc5330", "status": "SETTLED", "amount_cents": 76568}
+{"ts": "2026-09-19T14:00:53.535000+00:00", "table": "transactions", "internal_tx_hash": "090ed9eb24140f85", "status": "SETTLED", "amount_cents": 115447}
+{"ts": "2026-09-19T14:00:49.379000+00:00", "table": "transactions", "internal_tx_hash": "dc0cdd7d2a610e24", "status": "DECLINED", "amount_cents": 166523}
+{"ts": "2026-09-19T14:00:33.413000+00:00", "table": "transactions", "internal_tx_hash": "c74ab7411cf97d74", "status": "SETTLED", "amount_cents": 144503}
+{"ts": "2026-09-19T14:00:09.846000+00:00", "table": "transactions", "internal_tx_hash": "b0f7e47d9b0282ac", "status": "SETTLED", "amount_cents": 44522}
+{"ts": "2026-09-19T14:00:09.362000+00:00", "table": "transactions", "internal_tx_hash": "d14d723795990f36", "status": "SETTLED", "amount_cents": 49585}
+{"ts": "2026-09-19T14:00:06.990000+00:00", "table": "transactions", "internal_tx_hash": "c91b1b66ca4fd39d", "status": "SETTLED", "amount_cents": 161120}
+{"ts": "2026-09-19T14:00:49.796000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:32.072000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:06.706000+00:00", "table": "transactions", "internal_tx_hash": "d39b8d4b58bd6854", "status": "SETTLED", "amount_cents": 201269}
+{"ts": "2026-09-19T14:00:13.439000+00:00", "table": "transactions", "internal_tx_hash": "50821a6244a39860", "status": "SETTLED", "amount_cents": 111939}
+{"ts": "2026-09-19T14:00:27.641000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-7"}
+{"ts": "2026-09-19T14:00:33.568000+00:00", "table": "transactions", "internal_tx_hash": "b968906516c4c2c5", "status": "SETTLED", "amount_cents": 116690}
+{"ts": "2026-09-19T14:00:44.732000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:25.041000+00:00", "table": "transactions", "internal_tx_hash": "39b4deb8526b3323", "status": "SETTLED", "amount_cents": 93074}
+{"ts": "2026-09-19T14:00:37.136000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:11.183000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:39.714000+00:00", "table": "transactions", "internal_tx_hash": "6a9aa4910a292ff1", "status": "SETTLED", "amount_cents": 202218}
+{"ts": "2026-09-19T14:00:28.696000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:04.650000+00:00", "table": "transactions", "internal_tx_hash": "58623b372c053c58", "status": "SETTLED", "amount_cents": 222795}
+{"ts": "2026-09-19T14:00:32.788000+00:00", "table": "transactions", "internal_tx_hash": "830f215c254bfddf", "status": "SETTLED", "amount_cents": 168948}
+{"ts": "2026-09-19T14:00:46.592000+00:00", "table": "transactions", "internal_tx_hash": "4fccbd2a52c5a81a", "status": "SETTLED", "amount_cents": 222910}
+{"ts": "2026-09-19T14:00:11.002000+00:00", "table": "transactions", "internal_tx_hash": "65d72a8967bbcb84", "status": "SETTLED", "amount_cents": 26616}
+{"ts": "2026-09-19T14:00:08.666000+00:00", "table": "transactions", "internal_tx_hash": "4dc37b277ddc3a9d", "status": "SETTLED", "amount_cents": 125346}
+{"ts": "2026-09-19T14:00:49.871000+00:00", "table": "transactions", "internal_tx_hash": "cd90e2a062a33ef8", "status": "SETTLED", "amount_cents": 3485}
+{"ts": "2026-09-19T14:00:31.811000+00:00", "table": "transactions", "internal_tx_hash": "1a2d0c14daed1fb0", "status": "SETTLED", "amount_cents": 15829}
+{"ts": "2026-09-19T14:00:39.768000+00:00", "table": "transactions", "internal_tx_hash": "4bb6aa9bb04a7b0f", "status": "SETTLED", "amount_cents": 206133}
+{"ts": "2026-09-19T14:00:42.411000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:44.099000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:01:01.190000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:34.864000+00:00", "table": "transactions", "internal_tx_hash": "c9b7d2b6e9f101ca", "status": "SETTLED", "amount_cents": 230072}
+{"ts": "2026-09-19T14:00:33.470000+00:00", "table": "transactions", "internal_tx_hash": "7aeeb253fb716f3b", "status": "SETTLED", "amount_cents": 65178}
+{"ts": "2026-09-19T14:00:00.774000+00:00", "table": "transactions", "internal_tx_hash": "75eff7bf712f49c0", "status": "SETTLED", "amount_cents": 99943}
+{"ts": "2026-09-19T14:00:57.814000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:38.613000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:46.209000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:48.268000+00:00", "table": "transactions", "internal_tx_hash": "0c1e4a6569d35e06", "status": "SETTLED", "amount_cents": 206970}
+{"ts": "2026-09-19T14:00:33.248000+00:00", "table": "transactions", "internal_tx_hash": "0a2cf98542ed1761", "status": "SETTLED", "amount_cents": 187378}
+{"ts": "2026-09-19T14:00:25.647000+00:00", "table": "transactions", "internal_tx_hash": "92a2ba27df800108", "status": "SETTLED", "amount_cents": 39387}
+{"ts": "2026-09-19T14:00:31.017000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:44.310000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:36.859000+00:00", "table": "transactions", "internal_tx_hash": "51c3408483ccee2a", "status": "DECLINED", "amount_cents": 248262}
+{"ts": "2026-09-19T14:00:13.293000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:12.449000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:44.264000+00:00", "table": "transactions", "internal_tx_hash": "03b6d35651cb02cd", "status": "SETTLED", "amount_cents": 41970}
+{"ts": "2026-09-19T14:00:30.806000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:48.319000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:46.631000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:18.940000+00:00", "table": "transactions", "internal_tx_hash": "d60ba03d3cfc6ab8", "status": "SETTLED", "amount_cents": 212248}
+{"ts": "2026-09-19T14:00:57.603000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:48.741000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:38.840000+00:00", "table": "transactions", "internal_tx_hash": "39c1a5571dbbda02", "status": "DECLINED", "amount_cents": 182422}
+{"ts": "2026-09-19T14:00:57.426000+00:00", "table": "transactions", "internal_tx_hash": "be468445ba203529", "status": "SETTLED", "amount_cents": 214208}
+{"ts": "2026-09-19T14:00:55.704000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:19.824000+00:00", "table": "transactions", "internal_tx_hash": "334ca66add61cba2", "status": "SETTLED", "amount_cents": 238525}
+{"ts": "2026-09-19T14:00:17.092000+00:00", "table": "transactions", "internal_tx_hash": "83407fc8e63bc4d6", "status": "SETTLED", "amount_cents": 4641}
+{"ts": "2026-09-19T14:00:48.779000+00:00", "table": "transactions", "internal_tx_hash": "3b50bfebeb9fea70", "status": "SETTLED", "amount_cents": 108473}
+{"ts": "2026-09-19T14:00:00.844000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:24.054000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:01:03.887000+00:00", "table": "transactions", "internal_tx_hash": "ee3ba447c8ed8962", "status": "SETTLED", "amount_cents": 126801}
+{"ts": "2026-09-19T14:00:42.102000+00:00", "table": "transactions", "internal_tx_hash": "4793a7fd83b3c964", "status": "SETTLED", "amount_cents": 235651}
+{"ts": "2026-09-19T14:00:36.349000+00:00", "table": "transactions", "internal_tx_hash": "e006b79c5c6a0db0", "status": "SETTLED", "amount_cents": 141671}
+{"ts": "2026-09-19T14:00:23.318000+00:00", "table": "transactions", "internal_tx_hash": "4e12b6a7dabb3f9a", "status": "SETTLED", "amount_cents": 98698}
+{"ts": "2026-09-19T14:00:59.998000+00:00", "table": "transactions", "internal_tx_hash": "b089b48bd6f7078e", "status": "SETTLED", "amount_cents": 30485}
+{"ts": "2026-09-19T14:01:08.209000+00:00", "table": "transactions", "internal_tx_hash": "bc3ddceae5a34464", "status": "SETTLED", "amount_cents": 7289}
+{"ts": "2026-09-19T14:00:47.919000+00:00", "table": "transactions", "internal_tx_hash": "3866aec948bd0a7b", "status": "SETTLED", "amount_cents": 207655}
+{"ts": "2026-09-19T14:00:12.351000+00:00", "table": "transactions", "internal_tx_hash": "2dacb2d6288a55a3", "status": "SETTLED", "amount_cents": 233130}
+{"ts": "2026-09-19T14:00:20.045000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:43.334000+00:00", "table": "transactions", "internal_tx_hash": "4c39e3b1d333a201", "status": "DECLINED", "amount_cents": 146393}
+{"ts": "2026-09-19T14:00:02.743000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:20.678000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:38.824000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:58.447000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:25.989000+00:00", "table": "transactions", "internal_tx_hash": "94483a38434f9145", "status": "SETTLED", "amount_cents": 79584}
+{"ts": "2026-09-19T14:00:32.283000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:31.650000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:29.255000+00:00", "table": "transactions", "internal_tx_hash": "5aa070215ace457e", "status": "SETTLED", "amount_cents": 40572}
+{"ts": "2026-09-19T14:00:31.439000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:09.706000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:40.090000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:11.394000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:25.205000+00:00", "table": "transactions", "internal_tx_hash": "95c6b38db2927ca7", "status": "SETTLED", "amount_cents": 239728}
+{"ts": "2026-09-19T14:01:03.531000+00:00", "table": "transactions", "internal_tx_hash": "70082c3066a52916", "status": "SETTLED", "amount_cents": 19553}
+{"ts": "2026-09-19T14:00:16.001000+00:00", "table": "transactions", "internal_tx_hash": "a4810b4bdbf58607", "status": "SETTLED", "amount_cents": 44867}
+{"ts": "2026-09-19T14:00:00.422000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:46.842000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:00:24.038000+00:00", "table": "transactions", "internal_tx_hash": "8e4689f933b2c7cd", "status": "SETTLED", "amount_cents": 11059}
+{"ts": "2026-09-19T14:00:02.935000+00:00", "table": "transactions", "internal_tx_hash": "1c8802b560d84d9f", "status": "SETTLED", "amount_cents": 150703}
+{"ts": "2026-09-19T14:00:28.951000+00:00", "table": "transactions", "internal_tx_hash": "664f83ddc8664e18", "status": "SETTLED", "amount_cents": 183093}
+{"ts": "2026-09-19T14:00:12.027000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:00:06.119000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:25.806000+00:00", "table": "transactions", "internal_tx_hash": "05409657faa8dc89", "status": "SETTLED", "amount_cents": 177616}
+{"ts": "2026-09-19T14:00:29.370000+00:00", "table": "transactions", "internal_tx_hash": "339f89150400602d", "status": "SETTLED", "amount_cents": 8930}
+{"ts": "2026-09-19T14:00:10.972000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:01:08.393000+00:00", "table": "transactions", "internal_tx_hash": "e4bf2b2c4ab2117c", "status": "SETTLED", "amount_cents": 16016}
+{"ts": "2026-09-19T14:00:34.558000+00:00", "table": "transactions", "internal_tx_hash": "a623ff8b208de696", "status": "SETTLED", "amount_cents": 222144}
+{"ts": "2026-09-19T14:00:50.007000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:02.110000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:56.970000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-7"}
+{"ts": "2026-09-19T14:00:56.453000+00:00", "table": "transactions", "internal_tx_hash": "2d1662804abf850e", "status": "SETTLED", "amount_cents": 216119}
+{"ts": "2026-09-19T14:00:35.870000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:00:34.147000+00:00", "table": "transactions", "internal_tx_hash": "e3bb904c4ce609ef", "status": "DECLINED", "amount_cents": 46396}
+{"ts": "2026-09-19T14:00:22.999000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:55.335000+00:00", "table": "transactions", "internal_tx_hash": "b38c4abc07f629db", "status": "SETTLED", "amount_cents": 141155}
+{"ts": "2026-09-19T14:00:50.411000+00:00", "table": "transactions", "internal_tx_hash": "8cc5683f0edf7549", "status": "SETTLED", "amount_cents": 183363}
+{"ts": "2026-09-19T14:00:27.043000+00:00", "table": "transactions", "internal_tx_hash": "97567fa660332197", "status": "SETTLED", "amount_cents": 117606}
+{"ts": "2026-09-19T14:00:33.127000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:25.109000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:01:03.666000+00:00", "table": "transactions", "internal_tx_hash": "9e84af6a07568eb3", "status": "DECLINED", "amount_cents": 80987}
+{"ts": "2026-09-19T14:00:47.475000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-6"}
+{"ts": "2026-09-19T14:00:05.908000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:14.137000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:27.855000+00:00", "table": "transactions", "internal_tx_hash": "20216ddbffc1c40e", "status": "SETTLED", "amount_cents": 73449}
+{"ts": "2026-09-19T14:00:06.552000+00:00", "table": "transactions", "internal_tx_hash": "277f336c8aaf04cb", "status": "SETTLED", "amount_cents": 52532}
+{"ts": "2026-09-19T14:00:45.796000+00:00", "table": "transactions", "internal_tx_hash": "e79168bc65ce8105", "status": "SETTLED", "amount_cents": 128720}
+{"ts": "2026-09-19T14:00:01.007000+00:00", "table": "transactions", "internal_tx_hash": "f4e0cbd9c128fff7", "status": "DECLINED", "amount_cents": 58090}
+{"ts": "2026-09-19T14:01:01.005000+00:00", "table": "transactions", "internal_tx_hash": "9a86b75fa6186a28", "status": "DECLINED", "amount_cents": 80832}
+{"ts": "2026-09-19T14:00:45.170000+00:00", "table": "transactions", "internal_tx_hash": "1c2f0ef32bc4a793", "status": "SETTLED", "amount_cents": 74966}
+{"ts": "2026-09-19T14:00:42.581000+00:00", "table": "transactions", "internal_tx_hash": "4a3ed16ee714a2c6", "status": "SETTLED", "amount_cents": 209443}
+{"ts": "2026-09-19T14:00:55.184000+00:00", "table": "transactions", "internal_tx_hash": "1df854bade04a1a6", "status": "SETTLED", "amount_cents": 91373}
+{"ts": "2026-09-19T14:00:39.246000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:15.020000+00:00", "table": "transactions", "internal_tx_hash": "8b37f4b2d9f3c912", "status": "SETTLED", "amount_cents": 171711}
+{"ts": "2026-09-19T14:00:22.155000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:40.279000+00:00", "table": "transactions", "internal_tx_hash": "26b5a7971ad73e4f", "status": "SETTLED", "amount_cents": 206179}
+{"ts": "2026-09-19T14:00:36.081000+00:00", "table": "transactions", "internal_tx_hash": "ee39b7ebad2f80ef", "status": "DECLINED", "amount_cents": 111644}
+{"ts": "2026-09-19T14:00:51.835000+00:00", "table": "transactions", "internal_tx_hash": "4f209703962fedde", "status": "SETTLED", "amount_cents": 128615}
+{"ts": "2026-09-19T14:00:03.634000+00:00", "table": "transactions", "internal_tx_hash": "bb0c75293429ecb3", "status": "SETTLED", "amount_cents": 248846}
+{"ts": "2026-09-19T14:00:53.251000+00:00", "table": "transactions", "internal_tx_hash": "f3260050529958bd", "status": "SETTLED", "amount_cents": 230798}
+{"ts": "2026-09-19T14:01:00.557000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:01:00.668000+00:00", "table": "transactions", "internal_tx_hash": "1d1169d533297396", "status": "SETTLED", "amount_cents": 78651}
+{"ts": "2026-09-19T14:00:52.209000+00:00", "table": "transactions", "internal_tx_hash": "87ba73f228612eb1", "status": "SETTLED", "amount_cents": 181915}
+{"ts": "2026-09-19T14:00:43.978000+00:00", "table": "transactions", "internal_tx_hash": "bcb503630349a772", "status": "SETTLED", "amount_cents": 62525}
+{"ts": "2026-09-19T14:01:07.130000+00:00", "table": "transactions", "internal_tx_hash": "640da31e5861c3ea", "status": "SETTLED", "amount_cents": 96970}
+{"ts": "2026-09-19T14:00:36.081000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-5"}
+{"ts": "2026-09-19T14:01:08.626000+00:00", "table": "transactions", "internal_tx_hash": "73926619b35f8fc1", "status": "SETTLED", "amount_cents": 70809}
+{"ts": "2026-09-19T14:00:25.107000+00:00", "table": "transactions", "internal_tx_hash": "609b2bf6f6394aa0", "status": "SETTLED", "amount_cents": 207978}
+{"ts": "2026-09-19T14:00:46.638000+00:00", "table": "transactions", "internal_tx_hash": "ba88c1ae5098f707", "status": "SETTLED", "amount_cents": 223824}
+{"ts": "2026-09-19T14:00:30.676000+00:00", "table": "transactions", "internal_tx_hash": "eae2807b6d851a8a", "status": "SETTLED", "amount_cents": 239657}
+{"ts": "2026-09-19T14:00:37.410000+00:00", "table": "transactions", "internal_tx_hash": "e72c4df2e3b13725", "status": "SETTLED", "amount_cents": 39513}
+{"ts": "2026-09-19T14:00:39.447000+00:00", "table": "transactions", "internal_tx_hash": "794f3a5374695daa", "status": "SETTLED", "amount_cents": 120575}
+{"ts": "2026-09-19T14:00:05.718000+00:00", "table": "transactions", "internal_tx_hash": "e2eccde0ab664c1e", "status": "SETTLED", "amount_cents": 78541}
+{"ts": "2026-09-19T14:00:53.805000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:00.189000+00:00", "table": "transactions", "internal_tx_hash": "ed3fc97e788dde44", "status": "SETTLED", "amount_cents": 141193}
+{"ts": "2026-09-19T14:00:26.617000+00:00", "table": "transactions", "internal_tx_hash": "07dc8c652304375b", "status": "SETTLED", "amount_cents": 100427}
+{"ts": "2026-09-19T14:00:05.486000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-7"}
+{"ts": "2026-09-19T14:01:05.275000+00:00", "table": "transactions", "internal_tx_hash": "ef6a51f4906bf928", "status": "SETTLED", "amount_cents": 72528}
+{"ts": "2026-09-19T14:00:25.742000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-4"}
+{"ts": "2026-09-19T14:00:37.982000+00:00", "table": "transactions", "internal_tx_hash": "70ce7837530b65c0", "status": "SETTLED", "amount_cents": 176467}
+{"ts": "2026-09-19T14:00:25.953000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-1"}
+{"ts": "2026-09-19T14:01:07.301000+00:00", "table": "transactions", "internal_tx_hash": "e0f470824420c6a1", "status": "SETTLED", "amount_cents": 200606}
+{"ts": "2026-09-19T14:00:10.315000+00:00", "table": "transactions", "internal_tx_hash": "579a9c1488caedc9", "status": "SETTLED", "amount_cents": 73164}
+{"ts": "2026-09-19T14:00:13.775000+00:00", "table": "transactions", "internal_tx_hash": "54d62d6ce92769dd", "status": "SETTLED", "amount_cents": 155274}
+{"ts": "2026-09-19T14:00:13.082000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-9"}
+{"ts": "2026-09-19T14:01:01.016000+00:00", "table": "transactions", "internal_tx_hash": "b2e5d515e2f7e596", "status": "SETTLED", "amount_cents": 140369}
+{"ts": "2026-09-19T14:00:01.688000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-3"}
+{"ts": "2026-09-19T14:00:45.548000+00:00", "table": "transactions", "internal_tx_hash": "e0336907d487989e", "status": "SETTLED", "amount_cents": 49979}
+{"ts": "2026-09-19T14:01:01.386000+00:00", "table": "transactions", "internal_tx_hash": "a3b13f1f5ca4c765", "status": "SETTLED", "amount_cents": 167571}
+{"ts": "2026-09-19T14:00:47.053000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-2"}
+{"ts": "2026-09-19T14:00:50.851000+00:00", "table": "audit_log", "event": "session.refresh", "actor": "svc-8"}
+{"ts": "2026-09-19T14:00:07.423000+00:00", "table": "transactions", "internal_tx_hash": "d3cd7acb6967524c", "status": "SETTLED", "amount_cents": 80885}
+{"ts": "2026-09-19T14:00:15.143000+00:00", "table": "transactions", "internal_tx_hash": "2debe6f9d76c4b0e", "status": "SETTLED", "amount_cents": 247667}

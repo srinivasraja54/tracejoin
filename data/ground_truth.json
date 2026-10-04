@@ -1,0 +1,9 @@
+{
+  "expression": "sha256(request_id + \":\" + user_id)[:16]",
+  "inputs": [
+    "request_id",
+    "user_id"
+  ],
+  "target_field": "internal_tx_hash",
+  "max_achievable_join_yield": 0.984
+}
