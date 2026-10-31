@@ -7,3 +7,6 @@ __pycache__/
 
 # Generated at run time
 out/
+
+# Local Claude Code instructions
+CLAUDE.md
