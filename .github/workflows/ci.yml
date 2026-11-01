@@ -1,0 +1,29 @@
+name: CI
+
+# Tests plus the offline stub demo. Stdlib only, zero model calls, zero
+# secrets -- this must stay runnable on every PR from a fork.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: pip install pytest
+
+      - name: Test
+        run: python -m pytest tests -q
+
+      - name: Stub demo
+        # Exits 1 if the join key is not resolved.
+        run: python run.py --proposer stub
